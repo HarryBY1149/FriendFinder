@@ -2,8 +2,8 @@
 var friendsArray = [
     {
         "name": "Frank",
-        "photo": "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjkh7r8la_eAhXGnuAKHXjUA4UQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DW-PBFMECvTE&psig=AOvVaw1dNbUe9WDqeNDVIiMmdQRR&ust=1541023481500566",
-        "scores": [
+        "photo": "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+        scores: [
             5,
             3,
             2,

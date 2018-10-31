@@ -9,3 +9,13 @@ body {
 .survey-container{
     background-color: rgba(255, 248, 220, 0.315);
 }
+
+#photoDisplay {
+    border: 2px solid black;
+    height: 120px;
+    width: 100px;
+}
+
+.modal-body {
+    background-color: rgb(156, 105, 68);
+}
